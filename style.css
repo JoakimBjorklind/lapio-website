@@ -1,1 +1,10 @@
-p { background-color: red; }
+h1 { color: blue; }
+h2 { color: red; }
+h3 { color: violet; }
+a { color: yellow; }
+li { color: yellow; }
+p { color: yellow; }
+i { color: yellow; }
+.red { color: red; }
+.yellow { color: yellow; }
+
